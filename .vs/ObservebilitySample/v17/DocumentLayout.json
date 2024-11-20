@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\work\\ObservebilitySample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79936D4D-B546-491E-A063-DB236F9B5A58}|SmapleProjectB\\SmapleProjectB.csproj|f:\\work\\observebilitysample\\smapleprojectb\\smapleprojectb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{79936D4D-B546-491E-A063-DB236F9B5A58}|SmapleProjectB\\SmapleProjectB.csproj|solutionrelative:smapleprojectb\\smapleprojectb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79936D4D-B546-491E-A063-DB236F9B5A58}|SmapleProjectB\\SmapleProjectB.csproj|f:\\work\\observebilitysample\\smapleprojectb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79936D4D-B546-491E-A063-DB236F9B5A58}|SmapleProjectB\\SmapleProjectB.csproj|solutionrelative:smapleprojectb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F3DB34-7C1F-4DD3-87A3-0FE6FFA614FF}|SampleProjectOne\\SampleProjectOne.csproj|f:\\work\\observebilitysample\\sampleprojectone\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F3DB34-7C1F-4DD3-87A3-0FE6FFA614FF}|SampleProjectOne\\SampleProjectOne.csproj|solutionrelative:sampleprojectone\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F3DB34-7C1F-4DD3-87A3-0FE6FFA614FF}|SampleProjectOne\\SampleProjectOne.csproj|f:\\work\\observebilitysample\\sampleprojectone\\sampleprojectone.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{27F3DB34-7C1F-4DD3-87A3-0FE6FFA614FF}|SampleProjectOne\\SampleProjectOne.csproj|solutionrelative:sampleprojectone\\sampleprojectone.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F3DB34-7C1F-4DD3-87A3-0FE6FFA614FF}|SampleProjectOne\\SampleProjectOne.csproj|f:\\work\\observebilitysample\\sampleprojectone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27F3DB34-7C1F-4DD3-87A3-0FE6FFA614FF}|SampleProjectOne\\SampleProjectOne.csproj|solutionrelative:sampleprojectone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79936D4D-B546-491E-A063-DB236F9B5A58}|SmapleProjectB\\SmapleProjectB.csproj|f:\\work\\observebilitysample\\smapleprojectb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79936D4D-B546-491E-A063-DB236F9B5A58}|SmapleProjectB\\SmapleProjectB.csproj|solutionrelative:smapleprojectb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79936D4D-B546-491E-A063-DB236F9B5A58}|SmapleProjectB\\SmapleProjectB.csproj|f:\\work\\observebilitysample\\smapleprojectb\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79936D4D-B546-491E-A063-DB236F9B5A58}|SmapleProjectB\\SmapleProjectB.csproj|solutionrelative:smapleprojectb\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F3DB34-7C1F-4DD3-87A3-0FE6FFA614FF}|SampleProjectOne\\SampleProjectOne.csproj|f:\\work\\observebilitysample\\sampleprojectone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F3DB34-7C1F-4DD3-87A3-0FE6FFA614FF}|SampleProjectOne\\SampleProjectOne.csproj|solutionrelative:sampleprojectone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79936D4D-B546-491E-A063-DB236F9B5A58}|SmapleProjectB\\SmapleProjectB.csproj|f:\\work\\observebilitysample\\smapleprojectb\\smapleprojectb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79936D4D-B546-491E-A063-DB236F9B5A58}|SmapleProjectB\\SmapleProjectB.csproj|solutionrelative:smapleprojectb\\smapleprojectb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F3DB34-7C1F-4DD3-87A3-0FE6FFA614FF}|SampleProjectOne\\SampleProjectOne.csproj|f:\\work\\observebilitysample\\sampleprojectone\\sampleprojectone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27F3DB34-7C1F-4DD3-87A3-0FE6FFA614FF}|SampleProjectOne\\SampleProjectOne.csproj|solutionrelative:sampleprojectone\\sampleprojectone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F3DB34-7C1F-4DD3-87A3-0FE6FFA614FF}|SampleProjectOne\\SampleProjectOne.csproj|f:\\work\\observebilitysample\\sampleprojectone\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F3DB34-7C1F-4DD3-87A3-0FE6FFA614FF}|SampleProjectOne\\SampleProjectOne.csproj|solutionrelative:sampleprojectone\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F3DB34-7C1F-4DD3-87A3-0FE6FFA614FF}|SampleProjectOne\\SampleProjectOne.csproj|f:\\work\\observebilitysample\\sampleprojectone\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27F3DB34-7C1F-4DD3-87A3-0FE6FFA614FF}|SampleProjectOne\\SampleProjectOne.csproj|solutionrelative:sampleprojectone\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\work\\ObservebilitySample\\SmapleProjectB\\Program.cs",
+              "RelativeDocumentMoniker": "SmapleProjectB\\Program.cs",
+              "ToolTip": "F:\\work\\ObservebilitySample\\SmapleProjectB\\Program.cs",
+              "RelativeToolTip": "SmapleProjectB\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:25:02.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\work\\ObservebilitySample\\SampleProjectOne\\Program.cs",
+              "RelativeDocumentMoniker": "SampleProjectOne\\Program.cs",
+              "ToolTip": "F:\\work\\ObservebilitySample\\SampleProjectOne\\Program.cs",
+              "RelativeToolTip": "SampleProjectOne\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAhwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:20:14.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SmapleProjectB",
+              "DocumentMoniker": "F:\\work\\ObservebilitySample\\SmapleProjectB\\SmapleProjectB.csproj",
+              "RelativeDocumentMoniker": "SmapleProjectB\\SmapleProjectB.csproj",
+              "ToolTip": "F:\\work\\ObservebilitySample\\SmapleProjectB\\SmapleProjectB.csproj",
+              "RelativeToolTip": "SmapleProjectB\\SmapleProjectB.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T14:57:42.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "F:\\work\\ObservebilitySample\\SmapleProjectB\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SmapleProjectB\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "F:\\work\\ObservebilitySample\\SmapleProjectB\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SmapleProjectB\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:14:36.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\work\\ObservebilitySample\\SampleProjectOne\\appsettings.json",
+              "RelativeDocumentMoniker": "SampleProjectOne\\appsettings.json",
+              "ToolTip": "F:\\work\\ObservebilitySample\\SampleProjectOne\\appsettings.json",
+              "RelativeToolTip": "SampleProjectOne\\appsettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T14:22:35.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SampleProjectOne.http",
+              "DocumentMoniker": "F:\\work\\ObservebilitySample\\SampleProjectOne\\SampleProjectOne.http",
+              "RelativeDocumentMoniker": "SampleProjectOne\\SampleProjectOne.http",
+              "ToolTip": "F:\\work\\ObservebilitySample\\SampleProjectOne\\SampleProjectOne.http",
+              "RelativeToolTip": "SampleProjectOne\\SampleProjectOne.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-20T15:12:37.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "F:\\work\\ObservebilitySample\\SampleProjectOne\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SampleProjectOne\\WeatherForecast.cs",
+              "ToolTip": "F:\\work\\ObservebilitySample\\SampleProjectOne\\WeatherForecast.cs",
+              "RelativeToolTip": "SampleProjectOne\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:13:39.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\work\\ObservebilitySample\\SmapleProjectB\\appsettings.json",
+              "RelativeDocumentMoniker": "SmapleProjectB\\appsettings.json",
+              "ToolTip": "F:\\work\\ObservebilitySample\\SmapleProjectB\\appsettings.json",
+              "RelativeToolTip": "SmapleProjectB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T15:19:04.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmapleProjectB.http",
+              "DocumentMoniker": "F:\\work\\ObservebilitySample\\SmapleProjectB\\SmapleProjectB.http",
+              "RelativeDocumentMoniker": "SmapleProjectB\\SmapleProjectB.http",
+              "ToolTip": "F:\\work\\ObservebilitySample\\SmapleProjectB\\SmapleProjectB.http",
+              "RelativeToolTip": "SmapleProjectB\\SmapleProjectB.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-20T15:12:41.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SampleProjectOne",
+              "DocumentMoniker": "F:\\work\\ObservebilitySample\\SampleProjectOne\\SampleProjectOne.csproj",
+              "RelativeDocumentMoniker": "SampleProjectOne\\SampleProjectOne.csproj",
+              "ToolTip": "F:\\work\\ObservebilitySample\\SampleProjectOne\\SampleProjectOne.csproj",
+              "RelativeToolTip": "SampleProjectOne\\SampleProjectOne.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T14:22:39.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "F:\\work\\ObservebilitySample\\SampleProjectOne\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SampleProjectOne\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "F:\\work\\ObservebilitySample\\SampleProjectOne\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SampleProjectOne\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwBwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:13:41.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\work\\ObservebilitySample\\SampleProjectOne\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SampleProjectOne\\appsettings.Development.json",
+              "ToolTip": "F:\\work\\ObservebilitySample\\SampleProjectOne\\appsettings.Development.json",
+              "RelativeToolTip": "SampleProjectOne\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T15:12:32.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 800,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
